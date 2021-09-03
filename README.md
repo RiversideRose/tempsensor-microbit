@@ -1,6 +1,7 @@
 
 > Open this page at [https://riversiderose.github.io/tempsensor-microbit/](https://riversiderose.github.io/tempsensor-microbit/)
-
+## Temp Sensor with Radio Support
+* **Press A to check Temps between Micro-Bits.**
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
